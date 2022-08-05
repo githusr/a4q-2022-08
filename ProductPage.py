@@ -1,4 +1,5 @@
 from selenium.webdriver.chrome import webdriver
+from selenium import webdriver
 
 class ProductPage:
 
